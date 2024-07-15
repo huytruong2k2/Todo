@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuanlyCongViec_finalAPI.props" />
+</Project>
